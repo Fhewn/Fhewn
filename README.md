@@ -1,5 +1,5 @@
 - Selam! Ben Batuhan 
- JavaScript, HTML, CSS, C# ve diğer dillerde programlamayı seviyorum.
+ JavaScript, HTML, CSS, C# Python ve diğer dillerde programlamayı seviyorum.
 
 
          
