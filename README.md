@@ -36,7 +36,7 @@ Bildiğim Diller:
 
 
 
-
+<img src="https://camo.githubusercontent.com/396b9c68415f3c267cfbddba6c2859678678d80c0db3fc5f0e2a3f0adafc5e1c/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f50617373656e67657272722f636f756e742e737667" data-canonical-src="https://profile-counter.glitch.me/Passengerrr/count.svg" style="max-width: 100%;">
 
 
                        
