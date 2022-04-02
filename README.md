@@ -46,7 +46,7 @@ Bildiğim Diller:
 
 
 
-
+<img align="left" src="https://camo.githubusercontent.com/495e7e6d10f4f622b7a26e79be6c97a05aedd560829dc8751ef5553ae35f613c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d636c6c636e6b72742673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="cllcnkrt" data-canonical-src="https://github-readme-stats.vercel.app/api?/username=Fhewn;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;">
 
 
 
