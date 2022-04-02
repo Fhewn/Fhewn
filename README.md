@@ -47,7 +47,7 @@ Bildiğim Diller:
 
 <details>
  <summary>:bulb:Github Stats</summary>
- <img src="htps://github-readme-stats.vercel.app/api?username=Fhewn">
+ <img src="https://github-readme-stats.vercel.app/api?username=Fhewn">
  </details>
 
 
