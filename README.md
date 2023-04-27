@@ -60,4 +60,4 @@ Bildiğim Diller:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 	
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b8a0cb9d112a0241cd5c13d4b56ad68d1fd103db7ce3f4cfff87f3c9816ab5c5/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f7b6d6164757368616468616e7573686b617d2f636f756e742e737667"><img src="https://camo.githubusercontent.com/b8a0cb9d112a0241cd5c13d4b56ad68d1fd103db7ce3f4cfff87f3c9816ab5c5/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f7b6d6164757368616468616e7573686b617d2f636f756e742e737667" alt="madushadhanushka :: Visitor's Count" data-canonical-src="https://github.com/Fhewn/{madushadhanushka}/count.svg" style="max-width: 100%;"></a></p>
+
