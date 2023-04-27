@@ -22,7 +22,8 @@ Kişisel sosyal hesaplarım:
     <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3be1f6ff15106c2bc0178f042f961fc158694be4360483a0bb3b66ad4c3c4062/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d466179696b63696d26636f6c6f723d646331343363"><img src="https://camo.githubusercontent.com/3be1f6ff15106c2bc0178f042f961fc158694be4360483a0bb3b66ad4c3c4062/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d466179696b63696d26636f6c6f723d646331343363" data-canonical-src="https://komarev.com/ghpvc/?username=Fhewn&amp;color=14b8d1"
             style="max-width: 100%;"></a>
 </p>
-   
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 Bildiğim Diller:
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
@@ -33,6 +34,7 @@ Bildiğim Diller:
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/3904d2ef246121d570e7a706b6ca7c709668b53b0889a43c8b2fe764a87c1171/68747470733a2f2f63646e6c6f676f2e636f6d2f6c6f676f732f6d2f31302f6d7973716c2e737667" alt="mysql" width="43" data-canonical-src="https://cdnlogo.com/logos/m/10/mysql.svg" style="max-width: 100%;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="max-width: 100%;">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
  Cloud Araçları⚒️:
 
