@@ -10,14 +10,9 @@ Kişisel sosyal hesaplarım:
 <a href="https://instagram.com/batu.3959" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="batu.3959" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://www.instagram.com/fhewn_code" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fhewn_code" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://open.spotify.com/user/dosbutjaqwp66jbw0vdag2o6u?si=3f5c944aed8344bf" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="Fhewn" height="30" width="40" style="max-width: 100%;"></a>
-	<a href="https://steamcommunity.com/id/Fhewn?/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/steam.svg" alt="fhewn_code" height="30" width="40" style="max-width: 100%;"></a>
-
-
-	<a href="https://discord.com/users/1042917116434722936" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fhewn_code" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://discord.com/users/1042917116434722936" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fhewn_code" height="30" width="40" style="max-width: 100%;"></a>
  </p>
-<a href="https://steamcommunity.com/id/Fhewn?/" rel="nofollow"><img src="https://camo.githubusercontent.com/2b62b7b5a3ff8bc9f650b3d73725516bea32cdccf5b12f832af7f3536055b8ac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737465616d2532302d3137316132312e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d737465616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/steam%20-171a21.svg?&amp;style=for-the-badge&amp;logo=steam&amp;logoColor=white" style="max-width: 100%;"></a>
- <a href="https://twitter.com/Batuhanozler39" rel="nofollow">
-    <br>
+<br>
     <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3be1f6ff15106c2bc0178f042f961fc158694be4360483a0bb3b66ad4c3c4062/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d466179696b63696d26636f6c6f723d646331343363"><img src="https://camo.githubusercontent.com/3be1f6ff15106c2bc0178f042f961fc158694be4360483a0bb3b66ad4c3c4062/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d466179696b63696d26636f6c6f723d646331343363" data-canonical-src="https://komarev.com/ghpvc/?username=Fhewn&amp;color=14b8d1"
             style="max-width: 100%;"></a>
 </p>
