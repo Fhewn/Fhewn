@@ -55,8 +55,8 @@ Bildiğim Diller:
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fhewn&layout=compact">
  </details>
 	
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg"><img src="https://github.com/madushadhanushka/github-readme/raw/output/github-contribution-snake.svg" alt="Snake animation" style="max-width: 100%;"></a>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 	
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]([https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI](https://open.spotify.com/user/dosbutjaqwp66jbw0vdag2o6u?si=3f5c944aed8344bf)
+
