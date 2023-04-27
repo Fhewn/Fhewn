@@ -56,3 +56,4 @@ Bildiğim Diller:
  </details>
 	
 
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg"><img src="https://github.com/madushadhanushka/github-readme/raw/output/github-contribution-snake.svg" alt="Snake animation" style="max-width: 100%;"></a>
