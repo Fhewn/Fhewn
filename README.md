@@ -61,3 +61,4 @@ Bildiğim Diller:
 	
 
 
+<a href="https://open.spotify.com/user/dosbutjaqwp66jbw0vdag2o6u?si=3f5c944aed8344bf" rel="nofollow"><img src="https://camo.githubusercontent.com/a631c1de3a1fa318f104f6e7ad8f4298552d09f81e4964421cb894c78c6eb07e/68747470733a2f2f73706f746966792d6e6f772d706c6179696e672d6361726f6c34322e76657263656c2e6170702f6170692f73706f74696679" alt="Now playing on Spotify" data-canonical-src="https://spotify-now-playing-carol42.vercel.app/api/spotify" style="max-width: 100%;"></a>
