@@ -55,5 +55,4 @@ Bildiğim Diller:
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fhewn&layout=compact">
  </details>
 	
-	
-<a target="_blank" rel="noopener noreferrer" href="https://www.data-card-for-spotify.com/card?user_id=dosbutjaqwp66jbw0vdag2o6u"><img src="/kittinan/spotify-github-profile/raw/master/img/natemoo-re.svg" alt="spotify-github-profile" style="max-width: 100%;"></a>
+
