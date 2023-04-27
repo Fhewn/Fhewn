@@ -49,6 +49,3 @@ Bildiğim Diller:
  </details>
 
                        
-<a href="https://www.data-card-for-spotify.com/card?user_id=dosbutjaqwp66jbw0vdag2o6u">
-  <img src="https://www.data-card-for-spotify.com/api/card?user_id=dosbutjaqwp66jbw0vdag2o6u" alt="Data Card for Spotify">
-</a>
