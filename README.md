@@ -26,6 +26,7 @@ Kişisel sosyal hesaplarım:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 Bildiğim Diller:
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/3904d2ef246121d570e7a706b6ca7c709668b53b0889a43c8b2fe764a87c1171/68747470733a2f2f63646e6c6f676f2e636f6d2f6c6f676f732f6d2f31302f6d7973716c2e737667" alt="mysql" width="43" data-canonical-src="https://cdnlogo.com/logos/m/10/mysql.svg" style="max-width: 100%;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="max-width: 100%;">
 
