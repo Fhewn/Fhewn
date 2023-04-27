@@ -11,8 +11,6 @@ Kişisel sosyal hesaplarım:
 <p align="left" dir="auto"> 
 <a href="https://www.instagram.com/fhewn_code" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fhewn_code" height="30" width="40" style="max-width: 100%;"></a>
  </p>
-<a href="https://instagram.com/batu.3959" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="batu.3959" height="30" width="40" style="max-width: 100%;"></a>
-<p align="left" dir="auto">	
     <a href="https://discord.com/users/732661311808208997" rel="nofollow"><img src="https://camo.githubusercontent.com/cfdb7a62449afe712e9eb92977cf8190acb14fb16e173e128eff89736e212a1e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646973636f72642532302d3732383944412e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465"
             data-canonical-src="https://img.shields.io/badge/discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white" style="max-width: 100%;"></a>
     <a href="https://open.spotify.com/user/dosbutjaqwp66jbw0vdag2o6u?si=3f5c944aed8344bf" rel="nofollow"><img src="https://camo.githubusercontent.com/8b36f195a47af7355c39f1aeb80a128d1ed7522b1ed32f726bfa27f12ff54fc5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53706f746966792532302d3165643736302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d73706f74696679266c6f676f436f6c6f723d7768697465"
