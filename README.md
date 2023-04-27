@@ -34,7 +34,7 @@ Bildiğim Diller:
 </br>
 <img src="https://camo.githubusercontent.com/d641c44d21106dc4c7a7b2d8b900bc0ac40e1dc99b6dfd51554201d44e7be2ff/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f77696e646f77732d31302e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/windows-10.png" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/aba9734294ac49b50e3d0e95e18b97135f29d5a407242b4352c6f85254bbb932/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6c696e75782d2d76312e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/linux--v1.png" style="max-width: 100%;">
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 
 <details>
