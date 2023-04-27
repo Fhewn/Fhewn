@@ -57,3 +57,6 @@ Bildiğim Diller:
 	
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg"><img src="https://github.com/madushadhanushka/github-readme/raw/output/github-contribution-snake.svg" alt="Snake animation" style="max-width: 100%;"></a>
+
+	
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]([https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI](https://open.spotify.com/user/dosbutjaqwp66jbw0vdag2o6u?si=3f5c944aed8344bf)
