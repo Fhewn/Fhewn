@@ -12,11 +12,6 @@ Kişisel sosyal hesaplarım:
 <a href="https://open.spotify.com/user/dosbutjaqwp66jbw0vdag2o6u?si=3f5c944aed8344bf" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="Fhewn" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://discord.com/users/1042917116434722936" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fhewn_code" height="30" width="40" style="max-width: 100%;"></a>
  </p>
-<br>
-    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3be1f6ff15106c2bc0178f042f961fc158694be4360483a0bb3b66ad4c3c4062/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d466179696b63696d26636f6c6f723d646331343363"><img src="https://camo.githubusercontent.com/3be1f6ff15106c2bc0178f042f961fc158694be4360483a0bb3b66ad4c3c4062/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d466179696b63696d26636f6c6f723d646331343363" data-canonical-src="https://komarev.com/ghpvc/?username=Fhewn&amp;color=14b8d1"
-            style="max-width: 100%;"></a>
-</p>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 Bildiğim Diller:
 <div align="center">
