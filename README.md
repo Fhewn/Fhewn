@@ -40,6 +40,69 @@ Bildiğim Diller:
 
 
 
+<h1 align="center">
+  [Adınız Soyadınız]
+</h1>
+<h3 align="center">
+  [Unvanınız, örn: Senior Software Engineer | Cloud Architect]
+</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2084C9&center=true&vCenter=true&width=435&lines=Software+Engineering;System+Design;Scalable+Web+Applications;Problem+Solving" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
+### 👤 Hakkımda
+
+Ben, kullanıcı odaklı ve yüksek performanslı yazılım çözümleri geliştirme konusunda **[Yıl Sayısı]+** yıllık deneyime sahip bir yazılım geliştiricisiyim. Özellikle **[Ana Uzmanlık Alanı 1, örn: .NET Core]** ve **[Ana Uzmanlık Alanı 2, örn: React]** teknolojileriyle modern ve ölçeklenebilir uygulamalar inşa etme konusunda uzmanım. Karmaşık problemleri analiz etmeyi ve bunları temiz, sürdürülebilir kodlarla çözmeyi seviyorum.
+
+<br>
+
+### 🛠️ Yeteneklerim (Tech Stack)
+
+Aşağıda düzenli olarak kullandığım başlıca teknolojiler yer almaktadır.
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#-backend">
+        <img src="https://skillicons.dev/icons?i=dotnet,cs,go,nodejs" /><br>
+        <sub><b>Backend</b></sub>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="#-frontend">
+        <img src="https://skillicons.dev/icons?i=react,ts,tailwind,html" /><br>
+        <sub><b>Frontend</b></sub>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="#-database">
+        <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb" /><br>
+        <sub><b>Database</b></sub>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="#-devops">
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git" /><br>
+        <sub><b>DevOps/Cloud</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+### 🚀 Öne Çıkan Projelerim
+
+İşte gurur duyduğum bazı çalışmalarım. Daha fazlası için 'Repositories' sekmesine göz atabilirsiniz.
+
+- **[Proje Adı 1](https://github.com/KULLANICI_ADINIZ/PROJE_LINKI)**: [Projenin 1-
+
+
 
 
 
