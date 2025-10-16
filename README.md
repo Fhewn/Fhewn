@@ -74,8 +74,8 @@ Aşağıda düzenli olarak kullandığım başlıca teknolojiler yer almaktadır
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=[https://github.com/Fhewn]&show_icons=true&theme=vercel_dark&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[https://github.com/Fhewn]&layout=compact&theme=vercel_dark" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=[Fhewn]&show_icons=true&theme=vercel_dark&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Fhewn&layout=compact&theme=vercel_dark" />
 </p>
 
 ---
