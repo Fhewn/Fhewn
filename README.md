@@ -87,9 +87,6 @@ Show Image
 <img src="https://komarev.com/ghpvc/?username=Fhewn&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/> <img src="https://img.shields.io/github/followers/Fhewn?label=Followers&style=for-the-badge&color=00D9FF" alt="Followers"/> <img src="https://img.shields.io/github/stars/Fhewn?label=Total%20Stars&style=for-the-badge&color=00D9FF" alt="Total Stars"/> </div> <br/> <!-- Snake Animation --> <div align="center">
 🐍 Watch My Contributions Get Eaten!
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fhewn/Fhewn/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fhewn/Fhewn/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Fhewn/Fhewn/output/github-contribution-grid-snake.svg"> </picture> </div> <br/> <!-- Support Section --> <div align="center">
-☕ Support My Work
-If you find my projects helpful, consider buying me a coffee!
-<a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px"> </a> </div> <br/> <!-- Footer Wave --> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/> <div align="center">
 🌟 Made with ❤️ and ☕ by Batuhan Özler
 "Building the future, one commit at a time"
 ⭐ Star my repos if you find them interesting!
