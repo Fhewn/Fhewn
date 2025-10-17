@@ -1,17 +1,64 @@
-<h2 align="center" dir="auto"><a id="user-content-Fhewn" class="anchor" aria-hidden="true" href="#Fhewn"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Fhewnexe</h2>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-
-
-<h1 align="center">
-  Batuhan Özler
-</h1>
-<h3 align="center">
-   Software Developer | Cloud Architect
-</h3>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2084C9&center=true&vCenter=true&width=435&lines=Software+Engineering;System+Design;Scalable+Web+Applications;Problem+Solving" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Header">
+👋 Merhaba, Ben Batuhan Özler
+💻 Software Developer | ☁️ Cloud Architect
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineering+%F0%9F%9A%80;Scalable+System+Design+%F0%9F%8F%97%EF%B8%8F;Cloud+Architecture+%E2%98%81%EF%B8%8F;Modern+Web+Applications+%F0%9F%8C%90;Problem+Solving+%F0%9F%A7%A9" alt="Typing SVG" /> </div>
+<div align="center">
+🛠️ Teknoloji Yığınım
+💻 Diller & Framework'ler
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+☁️ Cloud & DevOps
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+🗄️ Veritabanları
+Show Image
+Show Image
+Show Image
+</div>
+<div align="center">
+📊 GitHub İstatistiklerim
+<img src="https://github-readme-stats.vercel.app/api?username=Fhewn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fhewn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fhewn&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" /> </div>
+<div align="center">
+🎯 Odak Alanlarım
+mermaid
+mindmap
+  root((Batuhan))
+    Software Engineering
+      Clean Code
+      Design Patterns
+      Testing
+    Cloud Architecture
+      Microservices
+      Serverless
+      Infrastructure as Code
+    System Design
+      Scalability
+      Performance
+      Security
+    Web Development
+      Frontend
+      Backend
+      Full Stack
+</div>
+<div align="center">
+🌟 Öne Çıkan Projeler
+Show Image
+ Show Image
+</div>
+<div align="center">
+📫 Bana Ulaşın
+Show Image
+ Show Image
+ Show Image
+ Show Image
+</div>
+<div align="center">
+💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+<img src="https://komarev.com/ghpvc/?username=Fhewn&color=00D9FF&style=for-the-badge&label=Profile+Views" alt="Profile Views" /> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Footer"> </div>
