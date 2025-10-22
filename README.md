@@ -12,9 +12,9 @@
 
 ---
 
-## 🛠️ My Technical Stack (Bildiklerim)
+## 🛠️ Technical Stack
 
-### 🌐 Programming Languages (Diller)
+### 🌐 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=csharp,python,go,typescript,javascript,html,css&theme=light" />
 </p>
@@ -24,29 +24,29 @@
   <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,django,fastapi,nestjs,graphql&theme=light" />
 </p>
 
-### ☁️ Cloud & Infrastructure (Kullandığım Uygulamalar)
+### ☁️ Cloud & DevOps Tools
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,azure,gcp,git,jenkins,githubactions,linux&theme=light" />
 </p>
 
-### 🗄️ Databases & Tools
+### 🗄️ Databases & Utilities
 <p>
   <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,vscode,postman,nginx&theme=light" />
 </p>
 
 ---
 
-## 🖥️ Server and System Technologies (Sunucular)
+## 🖥️ Server and Infrastructure Focus
 
-| Platform / OS | Odak Alanları |
+| Platform / OS | Core Focus Areas |
 | :--- | :--- |
-| **Linux (Ubuntu, CentOS)** | Shell Scripting, Sunucu Yönetimi, NGINX/Apache Konfigürasyonu, Performans İzleme |
-| **Windows Server** | Active Directory Yönetimi, GPO, IIS Web Sunucusu Kurulumu ve Yönetimi |
-| **Containers** | Docker, Kubernetes (K8s) ile üretim ortamı yönetimi |
+| **Linux (Ubuntu, CentOS)** | Server Administration, Shell Scripting, NGINX/Apache Configuration, Performance Monitoring |
+| **Windows Server** | Active Directory Management, GPO, IIS Web Server Deployment |
+| **Containers & Orchestration** | Docker, Kubernetes (K8s) for Production Environment Management |
 
 ---
 
-## 📊 GitHub Statistics (İstatistiklerim)
+## 📊 GitHub Statistics
 
 <div align="center">
   <a href="https://github.com/Fhewn">
