@@ -33,9 +33,15 @@
 </div>
 <br/>
 
-<h2 align="center">🛠️ My Arsenal</h2>
+<h2 align="center">🛠️ My Tech Arsenal</h2>
 <div align="center">
-Languages
+💻 Programming Languages
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
 Show Image
 Show Image
 Show Image
@@ -60,14 +66,61 @@ Show Image
 Show Image
 Show Image
 Show Image
-Database & Cloud
+🗄️ Databases
 Show Image
 Show Image
 Show Image
 Show Image
 Show Image
 Show Image
-DevOps & Tools
+Show Image
+Show Image
+Show Image
+Show Image
+🖥️ Operating Systems & Servers
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+💼 Development Tools & IDEs
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+☁️ Cloud & Hosting
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+🔧 DevOps & Tools
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+🎨 Design & Productivity Tools
+Show Image
 Show Image
 Show Image
 Show Image
