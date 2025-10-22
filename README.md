@@ -2,12 +2,6 @@
   <h1>Hi, I'm Batuhan Özler 👨‍💻</h1>
   <p>
     Software Developer | System Enthusiast | Focused on Reliable Infrastructure
-  </p>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=007ACC&center=true&vCenter=true&multiline=false&repeat=true&width=550&height=40&lines=Building+Clean+Code;Designing+Robust+Systems;Focused+on+Backend+&amp;+Cloud" alt="Typing SVG" />
-  
-  <br/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="650">
 </div>
 
 ---
